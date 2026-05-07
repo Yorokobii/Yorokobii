@@ -4,9 +4,9 @@ Ingeniero en Sistemas Computacionales egresado, con enfoque en desarrollo web y 
 Busco iniciar mi carrera profesional como desarrollador, aplicando mis conocimientos en entornos reales y siguiendo creciendo en el área de tecnología.
 
 💻 Tecnologías y herramientas
-- Desarrollo web: HTML CSS JavaScript PHP
+- Desarrollo web: HTML, CSS, JavaScript y PHP
 - Bases de datos: MySQL
-- Programación: Python Java C C++
+- Programación: Python, Java, C y C++
 - Herramientas: Git & VS Code
 - Redes: Cisco Packet Tracer
 
