@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ingeniero en Sistemas Computacionales egresado de la UVM, con enfoque en desarrollo web y bases de datos. He desarrollado proyectos propios y académicos construyendo interfaces y trabajando con tecnologías como JavaScript, PHP y MySQL.
+Ingeniero en Sistemas Computacionales egresado, con enfoque en desarrollo web y bases de datos. He desarrollado proyectos propios y académicos construyendo interfaces y trabajando con tecnologías como JavaScript, PHP y MySQL.
 Busco iniciar mi carrera profesional como desarrollador, aplicando mis conocimientos en entornos reales y siguiendo creciendo en el área de tecnología.
 
 💻 Tecnologías y herramientas
