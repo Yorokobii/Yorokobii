@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Yorokobii/Yorokobii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Sistemas Computacionales egresado de la UVM, con enfoque en desarrollo web y bases de datos. He desarrollado proyectos propios y académicos construyendo interfaces y trabajando con tecnologías como JavaScript, PHP y MySQL.
+Busco iniciar mi carrera profesional como desarrollador, aplicando mis conocimientos en entornos reales y siguiendo creciendo en el área de tecnología.
 
-Here are some ideas to get you started:
+💻 Tecnologías y herramientas
+Desarrollo web: HTML CSS JavaScript PHP
+Bases de datos: MySQL
+Programación: Python Java C C++
+Herramientas: Git & VS Code
+Redes: Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Cursos y certificaciones
+Redes (CCNA 1, 2 y 3) — Cisco Networking Academy
+Fundamentos de ciberseguridad
+Introducción a la nube
+
+💡 Sobre mí
+Me caracterizo por el pensamiento lógico, la resolución de problemas y la capacidad de adaptarme a nuevas tecnologías. Disfruto construir cosas desde cero y entender cómo funcionan por dentro.
